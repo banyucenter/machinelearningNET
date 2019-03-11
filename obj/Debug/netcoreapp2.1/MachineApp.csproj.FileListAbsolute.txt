@@ -1,0 +1,11 @@
+/Users/ipungpurwono/Documents/MachineApp/bin/Debug/netcoreapp2.1/MachineApp.deps.json
+/Users/ipungpurwono/Documents/MachineApp/bin/Debug/netcoreapp2.1/MachineApp.runtimeconfig.json
+/Users/ipungpurwono/Documents/MachineApp/bin/Debug/netcoreapp2.1/MachineApp.runtimeconfig.dev.json
+/Users/ipungpurwono/Documents/MachineApp/bin/Debug/netcoreapp2.1/MachineApp.dll
+/Users/ipungpurwono/Documents/MachineApp/bin/Debug/netcoreapp2.1/MachineApp.pdb
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.csprojAssemblyReference.cache
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.csproj.CoreCompileInputs.cache
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.AssemblyInfoInputs.cache
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.AssemblyInfo.cs
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.dll
+/Users/ipungpurwono/Documents/MachineApp/obj/Debug/netcoreapp2.1/MachineApp.pdb
